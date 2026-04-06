@@ -147,13 +147,13 @@ http://127.0.0.1:8000/docs
 ### Build Image
 
 ```bash
-docker build -t task-api .
+docker build -t mini-task-management-api .
 ```
 
 ### Run Container
 
 ```bash
-docker run -d -p 8000:8000 task-api
+docker run -d -p 8000:8000 mini-task-management-api
 ```
 
 ---
