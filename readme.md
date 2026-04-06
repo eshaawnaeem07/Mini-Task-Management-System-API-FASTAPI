@@ -149,6 +149,12 @@ http://127.0.0.1:8000/docs
 ```bash
 docker build -t mini-task-management-api .
 ```
+## 🐳 Docker Hub Pull Command
+
+You can directly pull the latest image from Docker Hub:
+
+```bash
+docker pull eshaaw/mini-task-management-api:latest
 
 ### Run Container
 
